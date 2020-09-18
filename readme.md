@@ -15,14 +15,16 @@ This is a Django web server which will expose an api for updating cars in a gara
 Clone this repository to your local machine.
 
 ```
-$ git clone git@github.com:leeroywking/django-rest-postgres.git
+$ git clone git@github.com:leeroywking/django_perms_prod.git
 ```
 
 ### To run the program from VS Code:
 `docker-compose up`
 
 ---
-
+### images
+![img](./django_auth_prod.png)
 
 ### Change Log
 1.0: Feature complete
+1.1: Readme updates
